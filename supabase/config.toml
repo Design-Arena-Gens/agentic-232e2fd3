@@ -1,0 +1,7 @@
+project_id = "agentic-notion-clone"
+api_url = "http://localhost"
+db_url = "postgresql://postgres:postgres@localhost:5432/postgres"
+studio_url = "http://localhost"
+
+[functions]
+max_response_size = 20
